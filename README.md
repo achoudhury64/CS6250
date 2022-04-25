@@ -1,0 +1,23 @@
+Predicting Hospital Readmission using Deep Learning Packages needed to run the program: 
+csv, 
+logging, 
+os, 
+random, 
+sys, 
+matplotlib, 
+numpy, 
+pandas, 
+torch, 
+sklearn, 
+torch, 
+tqdm, 
+transformers, 
+copy, 
+json, 
+math, 
+tarfile, 
+tempfile, 
+shutil, 
+re, 
+seaborn
+
